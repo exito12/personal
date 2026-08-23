@@ -1,1 +1,10 @@
-H
+{
+  "messages": [
+    {
+      "ip": "192.168.1.100",
+      "title": "Mensaje personalizado",
+      "body": "Este mensaje solo lo ve la IP 192.168.1.100",
+      "date": "2026-08-23"
+    }
+  ]
+}
