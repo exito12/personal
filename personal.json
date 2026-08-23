@@ -1,9 +1,9 @@
 {
   "messages": [
     {
-      "ip": "192.168.1.100",
+      "ip": "186.14.169.100",
       "title": "Mensaje personalizado",
-      "body": "Este mensaje solo lo ve la IP 192.168.1.100",
+      "body": "Este mensaje solo lo ve la IP 186.14.169.100",
       "date": "2026-08-23"
     }
   ]
