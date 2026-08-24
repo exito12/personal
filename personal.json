@@ -1,13 +1,13 @@
 {
   "messages": [
     {
-      "ip": "190.10.9.100",
+      "ip": "186.14.169.100",
       "title": "Mensaje para usuario VIP",
       "body": "Hola, tienes un descuento especial en tu suscripción. Contacta al administrador.",
       "date": "2026-08-23"
     },
     {
-      "ip": "186.14.169.100",
+      "ip": "289.14.169.100",
       "title": "Aviso importante",
       "body": "El servidor estará en mantenimiento el día 25 de agosto de 10:00 a 12:00.",
       "date": "2026-08-23"
