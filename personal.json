@@ -1,13 +1,13 @@
 {
   "messages": [
     {
-      "ip": "181.208.81.236",
+      "mac": "RTK5.250429.016",
       "title": "Mensaje para usuario VIP",
       "body": "Saludos VIP, tienes un descuento especial en tu suscripción. Contacta al administrador.",
-      "date": "2026-08-23"
+      "date": "2026-09-03"
     },
     {
-      "ip": "289.14.169.100",
+      "mac": "OTRO_ID_ANDROID",
       "title": "Aviso importante",
       "body": "El servidor estará en mantenimiento el día 25 de agosto de 10:00 a 12:00.",
       "date": "2026-08-23"
