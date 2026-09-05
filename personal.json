@@ -2,15 +2,24 @@
   "messages": [
     {
       "mac": "RTK5.250429.016",
+      "ip": "186.14.59.0",
       "title": "Mensaje para usuario VIP",
-      "body": "PRUEBA 99 Saludos  hoy VIP, tienes un descuento especial en tu suscripción. Contacta al administrador.",
+      "body": "Saludos VIP, tienes un descuento especial en tu suscripción.",
       "date": "2026-09-03"
     },
     {
-      "mac": "OTRO_ID_ANDROID",
+      "mac": "",
+      "ip": "181.208.81.236",
       "title": "Aviso importante",
-      "body": "El servidor estará en mantenimiento el día 25 de agosto de 10:00 a 12:00.",
+      "body": "El servidor estará en mantenimiento el día 25 de agosto.",
       "date": "2026-08-23"
+    },
+    {
+      "mac": "OTRO_ID_ANDROID",
+      "ip": "",
+      "title": "Mensaje solo por ID",
+      "body": "Este mensaje solo va a quien tenga este ID.",
+      "date": "2026-09-04"
     }
   ]
 }
